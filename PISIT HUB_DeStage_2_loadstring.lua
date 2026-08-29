@@ -23,4 +23,4 @@ local _print6 = print("[PISIT HUB]: ส่งข้อมูลสำเร็�
 local _print7 = print("[PISIT HUB]: ส่งข้อมูลไปยัง Worker สำเร็จ!")
 
 -- รันสคริปต์ PISIT HUB จากลิงก์ Worker โดยตรง (ไม่ต้องผ่าน loadstring ตัวแปรตัดจบ)
-loadstring(game:HttpGet("https://onf-pisit.kirsrsaema66.workers.dev/api/script/toglrdn9g0"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DUCKTRXSH/pisid/refs/heads/main/PISIT%20HUB_Stage_4_loadstring.lua"))()

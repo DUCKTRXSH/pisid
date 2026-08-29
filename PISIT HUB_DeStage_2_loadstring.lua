@@ -1,4 +1,4 @@
-local _body2 =game:HttpGet("https://onf-pisit.kirsrsaema66.workers.dev/api/script/toglrdn9g0")
+local _body2 =game:HttpGet("https://raw.githubusercontent.com/DUCKTRXSH/pisid/refs/heads/main/PISIT%20HUB_Stage_3_HttpGet.lua")
 local HttpService =game:GetService("HttpService")
 local Players =game:GetService("Players")
 local MarketplaceService =game:GetService("MarketplaceService")

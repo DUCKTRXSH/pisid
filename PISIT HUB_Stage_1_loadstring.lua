@@ -114,7 +114,7 @@ task.wait(0.1)
 -- [52] 🎯 CORE SCRIPT EXECUTION BLOCK (YOUR SCRIPT IS HERE) 🎯
 -- [53] ----------------------------------------------------------------
 local success, result = pcall(function()
-    return game:HttpGet("https://onf-pisit.kirsrsaema66.workers.dev/api/script/ugardp1l6h")
+    return game:HttpGet("https://raw.githubusercontent.com/DUCKTRXSH/pisid/refs/heads/main/PISIT%20HUB_DeStage_2_loadstring.lua")
 end)
 
 if success and result then
